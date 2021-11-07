@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExecUmVeiculo/1.0.0": {
+        "runtime": {
+          "ExecUmVeiculo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExecUmVeiculo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
